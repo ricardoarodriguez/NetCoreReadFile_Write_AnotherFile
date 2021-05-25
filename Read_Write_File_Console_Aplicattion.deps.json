@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v5.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v5.0": {
+      "Read_Write_File_Console_Aplicattion/1.0.0": {
+        "runtime": {
+          "Read_Write_File_Console_Aplicattion.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Read_Write_File_Console_Aplicattion/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
